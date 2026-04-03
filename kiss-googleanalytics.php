@@ -5,7 +5,7 @@ Plugin URI: http://vrtl.io/kiss-google-analytics-wordpress-plugin
 Description: The KISS (Keep It Simple Stupid) Google Analytics plugin that allows you to paste your GA code in directly.
 Author: Gary Gause
 Version: 1.0
-License: GPL v2+
+License: GPL-2.0-or-later
 Text Domain: kiss-googleanalytics
 */
 

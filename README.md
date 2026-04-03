@@ -1,5 +1,7 @@
 # KISS Google Analytics
 
+**Version:** 1.1 · Directory slug: `kiss-googleanalytics`
+
 A small WordPress plugin for pasting your Google Analytics snippet (for example gtag / GA4) straight into the site; nothing beyond **Settings → Google Analytics** and your measurement code.
 
 **Plugin page:** [vrtl.io/kiss-google-analytics-wordpress-plugin](http://vrtl.io/kiss-google-analytics-wordpress-plugin)  

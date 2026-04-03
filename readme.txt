@@ -4,7 +4,7 @@ Tags: google analytics, analytics, gtag, ga4, tracking
 Requires at least: 5.8
 Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -42,10 +42,18 @@ The saved snippet is printed in `wp_head` on front-end pages.
 
 == Changelog ==
 
+= 1.1 =
+* Harden settings save (nonces, capability check, redirect after save) and option registration.
+* Add internationalization text domain, ABSPATH guard, and safer output in wp_head.
+* Ship GPL-2.0 license text; add WordPress.org readme.txt and directory header fields (requires/tested/PHP).
+
 = 1.0 =
 * Initial release.
 
 == Upgrade Notice ==
+
+= 1.1 =
+Maintenance and WordPress.org packaging; safe to update.
 
 = 1.0 =
 First public release.
